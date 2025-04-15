@@ -1,12 +1,28 @@
 # llms.txt
 
-## About Us
+## About Progressive AI
 
-Progressive AI is an AI solutions provider based in India, dedicated to empowering small, medium, and large businesses to create any kind of AI system tailored to their unique needs.
+Progressive AI transforms business communication and operations with custom AI agents, specializing in rich voice experiences, interactive chat interfaces, embedded web widgets, mobile app assistants, and multi-modal solutions. Based in India, Progressive AI empowers organizations of all sizes to leverage advanced, conversational AI for greater efficiency, engagement, and value delivery.
 
-The mission of Progressive AI is to make advanced AI accessible to all organizations, regardless of size or technical background. From intelligent automation and data-driven insights to custom AI-powered applications, Progressive AI helps businesses harness the full potential of artificial intelligence.
+## Value Proposition
 
-Whether a business is looking to streamline operations, enhance customer experiences, or unlock new business opportunities, the expert team at Progressive AI is here to support the journey with end-to-end AI development services.
+Progressive AI specializes in building tailored AI solutions that revolutionize how businesses communicate, operate, and deliver value through innovative voice and web interactions.
+
+## Services
+- **Voice AI Agents**: Custom voice assistants that understand context and deliver natural, human-like conversations.
+- **Voice Integration**: Seamless integration of voice capabilities into existing systems and workflows.
+- **Custom Solutions**: End-to-end development of AI-powered solutions designed specifically for each business's needs and goals.
+
+## Features
+- **Natural Conversations**: AI agents engage in context-aware, human-like dialogues.
+- **Real-time Processing**: Advanced speech processing for lightning-fast responses.
+- **Multi-voice Support**: Multiple natural-sounding voices to match any brand.
+- **Custom Training**: AI agents trained with business knowledge and brand voice.
+- **Analytics & Insights**: Detailed analytics to improve customer interactions.
+- **Seamless Integration**: Easy integration with existing business systems.
+
+## Contact
+Book a discovery call: [https://calendly.com/rahul-majumder043/discovery-call](https://calendly.com/rahul-majumder043/discovery-call)
 
 ---
 
